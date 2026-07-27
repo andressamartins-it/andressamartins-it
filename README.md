@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Andressa Martins 👋
 
-<!--
-**andressamartins-it/andressamartins-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+An analytical professional transitioning from the financial market into the cybersecurity field. I am passionate about understanding how technology, business logic, and security intersect to protect critical digital infrastructure, manage risks, and defend financial systems from cyber threats. 
 
-Here are some ideas to get you started:
+- Currently based in Europe.
+- Targeting the international cybersecurity job market.
+- Fun fact: I leverage my sharp eye for compliance and risk management from my previous career to secure digital assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Journey & Education
+I am actively building my core technical foundations through rigorous daily study and hands-on labs.
+- **Google Cybersecurity Professional Certificate** (Coursera) - *In Progress*
+- **Networking Foundations** (Cisco) - *In Progress*
+
+---
+
+## Skills & Tools in Development
+- **Security:** Risk Assessment, Threat Detection, Security Compliance
+- **Core Technicals:** Linux CLI, Network Security, Protocols
+- **Data & Automation:** Python, SQL
+
+---
+
+## Portfolio Projects
+*Here you can find the practical projects I have completed during my cybersecurity specialization:*
+
+* **[Project 1: Career Identity & Professional Statement](./[nome-do-seu-repositorio-de-portfolio]/01-professional-statement)**  
+  A strategic alignment of my financial market background with information security core principles, showcasing how transferable skills fit business-driven defense.
+* *(More projects coming soon as I advance through my labs...)*
+
+---
+
+## 📬 Connect with me
+- **LinkedIn:** www.linkedin.com/in/andressa-martins-39b990211
+- **Email:** andressakarla64@hotmail.com
