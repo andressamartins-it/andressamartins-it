@@ -26,7 +26,7 @@ I am actively building my core technical foundations through rigorous daily stud
 ## Portfolio Projects
 *Here you can find the practical projects I have completed during my cybersecurity specialization:*
 
-* **[Project 1: Career Identity & Professional Statement](./[01-professional-statement)**  
+* **[Project 1: Career Identity & Professional Statement](https://github.com/andressamartins-it/my-security-portfolio/tree/main/01-professional-statement)**  
   A strategic alignment of my financial market background with information security core principles, showcasing how transferable skills fit business-driven defense.
 * *(More projects coming soon as I advance through my labs...)*
 
