@@ -1,4 +1,4 @@
-# Hi, I'm Andressa Martins 👋
+# Hi, I'm Andressa Martins 
 
 ## About Me
 An analytical professional transitioning from the financial market into the cybersecurity field. I am passionate about understanding how technology, business logic, and security intersect to protect critical digital infrastructure, manage risks, and defend financial systems from cyber threats. 
