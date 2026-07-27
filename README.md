@@ -28,11 +28,12 @@ I am actively building my core technical foundations through rigorous daily stud
 
 * **[Project 1: Career Identity & Professional Statement](https://github.com/andressamartins-it/my-security-portfolio/tree/main/01-professional-statement)**
 * **[Project 2: Internal Security Audit & Compliance Assessment](https://github.com/andressamartins-it/my-security-portfolio/tree/main/02-security-audit)**
+* 
   A strategic alignment of my financial market background with information security core principles, showcasing how transferable skills fit business-driven defense.
 * *(More projects coming soon as I advance through my labs...)*
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 - **LinkedIn:** www.linkedin.com/in/andressa-martins-39b990211
 - **Email:** andressakarla64@hotmail.com
